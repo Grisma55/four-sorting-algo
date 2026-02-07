@@ -1,0 +1,19 @@
+* {
+     margin: 0;
+     padding: 0;
+ 
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+code { 
+    font-family: "Source Code Pro", monospace; 
+}
+
+footer {
+    background-color: #231161;  
+    color: #C99700;             
+    font-weight: bold;
+}
